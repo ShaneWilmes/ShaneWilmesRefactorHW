@@ -26,3 +26,13 @@ THEN I find a concise, descriptive title
 ```
 ## Final Mock-Up
 ![screen shot of website](/assets/images/screencapture-file-C-Users-Shane-Desktop-ShaneWilmesRefactorHW-index-html-2023-01-16-17_50_08.png)
+
+## Contact Info
+
+* Email:  shanewilmes@yahoo.com
+
+* [My Github](https://github.com/ShaneWilmes)
+
+* [LinkedIn](https://www.linkedin.com/in/shane-wilmes-/)
+
+
